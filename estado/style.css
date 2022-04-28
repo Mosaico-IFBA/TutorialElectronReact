@@ -1,0 +1,19 @@
+.btns{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.btn{
+  background: #304d63;
+  color: aliceblue;
+  width: 45px;
+  height: 45px;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 50%;
+  font-size: 25px;
+  cursor: pointer;
+}
